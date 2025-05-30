@@ -48,6 +48,15 @@ function Projects() {
         Projectlink="https://cafeteria-hkg1dqqcq-monuhundlani-gmailcoms-projects.vercel.app" 
         poster={cafe}
       />
+        <ProjectDisp
+        Imagealine="right"
+        Projectname="Smile Cafe Point"
+        ProjectDisp="Smile Cafe Point is a web application that allows users to view the latest food items, order food, and add the items to their cart. "
+        tech={["React js", "Express js", "Mongodb", "Node js"]}
+        github= "https://github.com/Mohit3032/dp_1"
+        Projectlink="https://cafeteria-hkg1dqqcq-monuhundlani-gmailcoms-projects.vercel.app" 
+        poster={cafe}
+      />
 
 
       <div className="OtherprojectContainer">
